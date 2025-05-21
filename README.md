@@ -23,6 +23,4 @@ This is my personal portfolio built with Next.js, TypeScript, and Tailwind CSS.
    ```
 3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Deployment
 
-This project is easily deployable on Vercel. Just connect your GitHub repo and deploy! 
