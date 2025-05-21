@@ -4,7 +4,7 @@ This is my personal portfolio built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Live URL
 
-[View Live Portfolio](https://your-vercel-live-url.vercel.app) <!-- Replace with your actual Vercel URL after deployment -->
+[View Live Portfolio](tangerine-gumdrop-39462b.netlify.app) <!-- Replace with your actual Vercel URL after deployment -->
 
 ## Features
 - Modern UI with Tailwind CSS
