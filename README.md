@@ -4,7 +4,7 @@ This is my personal portfolio built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Live URL
 
-tangerine-gumdrop-39462b.netlify.app
+[https://tangerine-gumdrop-39462b.netlify.app](https://tangerine-gumdrop-39462b.netlify.app)
 
 ## Features
 - Modern UI with Tailwind CSS
